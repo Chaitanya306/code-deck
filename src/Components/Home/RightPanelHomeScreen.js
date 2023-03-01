@@ -75,8 +75,8 @@ const RightPanelHomeScreen = () => {
                                             navigate(`/code/${folderId}/${playgroundId}`)
                                         }}
                                     >
-                                        <div className="flex gap-4">
-                                            <img src="/logo-small.png" alt="logo" />
+                                        <div className="flex gap-4 cursor-pointer">
+                                            <img src="./logo-small.png" alt="logo" />
                                             <div>
                                                 <h4>{playground.title}</h4>
                                                 <h4>language: {playground.language}</h4>

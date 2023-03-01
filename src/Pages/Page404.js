@@ -3,7 +3,7 @@ import React from 'react'
 const Page404 = () => {
   return (
     <div>
-      Error
+      <h1>Route not there, Please click back arrow</h1>
     </div>
   )
 }
