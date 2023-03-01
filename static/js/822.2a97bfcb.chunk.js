@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcode_deck=self.webpackChunkcode_deck||[]).push([[822],{1822:function(e,c,n){n.r(c);n(2791);var r=n(184);c.default=function(){return(0,r.jsx)("div",{children:(0,r.jsx)("h1",{children:"Route not there, Please click back arrow"})})}}}]);
+//# sourceMappingURL=822.2a97bfcb.chunk.js.map
